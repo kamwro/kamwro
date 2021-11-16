@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kamwro
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python and SQL, also studying Computer Science
+- 💞️ I’m looking to collaborate on (not really now)
+- 📫 How to reach me (just write a message)
