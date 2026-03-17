@@ -1,23 +1,22 @@
-Hi! I'm **Kamil Wróbel** - a backend developer based in Poland with over **2 years of experience** building scalable, maintainable systems.
+Hi! I'm **Kamil Wróbel**, a backend developer based in Poland with **2+ years of experience** building scalable, maintainable systems.
 
-I specialize in:
+I focus on designing backend services that are modular, reliable, and easy to evolve over time. My work includes building APIs, shaping service architecture, improving developer workflows, and automating infrastructure.
 
-### Backend & APIs
-- **TypeScript** – strongly typed backend systems  
-- **NestJS** – modular, enterprise-grade backend architecture  
-- **Python** – backend services, scripting, and automation  
-- **FastAPI** – high-performance Python APIs, async I/O, OpenAPI-first design  
-- **Strapi** – headless CMS written in JavaScript/TypeScript  
-- **PostgreSQL** – schema design, migrations, and query optimization  
+### What I work on
+- Building **scalable backend services** and internal platforms
+- Designing **clean APIs** and modular system architecture
+- Improving **developer experience** with better tooling and automation
+- Working with **cloud infrastructure** and Infrastructure as Code
+- Implementing **authentication, authorization, and secure service communication**
 
-### Cloud & Infrastructure
-- **AWS** – Lambda, ECS, S3, SES, CloudFront, IAM  
-- **Terraform** – Infrastructure as Code for AWS stacks and CI/CD deployments  
-- **Docker** – local development environments and production-ready images  
+### Main technologies
+- **TypeScript**, **NestJS**
+- **Python**, **FastAPI**
+- **PostgreSQL**
+- **Strapi**
+- **AWS**
+- **Terraform**, **Docker**
 
-- Experience with the **Ory Stack** – Kratos (identity), Keto (ACL), Oathkeeper (API gateway)  
-- Strong focus on multi-service authentication, RBAC, and secure API gateways  
+I’m especially interested in backend architecture, platform engineering, security, and automation.
 
-I enjoy designing clean, scalable system architectures, building developer tooling, and automating everything with IaC.  
-On my GitHub, you’ll find backend utilities, service templates, IaC experiments, and full-stack prototypes.
-
+On my GitHub, you’ll find backend utilities, infrastructure experiments, service templates, and full-stack prototypes.
