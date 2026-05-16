@@ -1,26 +1,34 @@
-Hi! I'm **Kamil Wróbel**, a fullstack developer based in Poland with **2+ years of commercial experience** building scalable, production-grade systems end-to-end — from backend services and APIs to frontend applications and cloud infrastructure.
+# Hi, I'm Kamil Wróbel 👋
 
-I specialize in designing modular architectures that are reliable, easy to evolve, and ready to integrate modern capabilities like AI-driven automation. My work spans the full development lifecycle: shaping system design, building user-facing applications, implementing secure multi-tenant platforms, and automating infrastructure.
+I'm a fullstack developer based in Poland, focused on building reliable, production-grade web platforms across backend, frontend, and cloud infrastructure.
 
-### What I bring to the table
+My strongest commercial experience is in the TypeScript ecosystem — especially **NestJS, React, Next.js, Strapi, PostgreSQL, AWS, Docker, and Terraform**. I enjoy working on systems that need clean architecture, clear boundaries, maintainable APIs, secure access control, and smooth developer workflows.
 
-- Architecting **fullstack platforms** — backend services, BFF layers, and frontend applications within monorepo structures serving multiple partners from a single codebase
-- Designing **clean, well-documented APIs** (REST & GraphQL) and modular service architectures built for long-term maintainability
-- Implementing **enterprise-grade security** — RBAC, MFA/AAL2, tenant-level data isolation, and secure service-to-service communication
-- Building and deploying on **cloud infrastructure** using Infrastructure as Code, with a focus on reproducibility and cost optimization
-- Exploring **AI-augmented backend solutions** — integrating LLMs and intelligent automation into real-world workflows
-- Improving **developer experience** through better tooling, CI/CD pipelines, and streamlined development workflows
+Recently, I’ve also been expanding into **Python, FastAPI, data-oriented applications, and life sciences / bioinformatics software**. I’m especially interested in projects that combine fullstack engineering with scientific or domain-heavy data workflows.
 
-### Main technologies
+## What I work on
 
-**Backend:** TypeScript, NestJS, Python, FastAPI
-**Frontend:** Next.js, React
-**Data:** PostgreSQL, MongoDB, Strapi CMS
-**Infrastructure:** AWS, Terraform, Docker, Kubernetes
-**Security:** Ory Stack (Kratos, Hydra), OAuth2/OIDC
+- Designing and building **fullstack applications** from API to UI
+- Creating modular backend services with clean boundaries and readable architecture
+- Building REST and GraphQL APIs for real-world product workflows
+- Working with PostgreSQL, Strapi CMS, and multi-service systems
+- Automating infrastructure with Terraform, Docker, CI/CD, and cloud services
+- Improving developer experience through better tooling, documentation, and project structure
+- Exploring Python/FastAPI and data-focused applications in the life sciences space
 
-### What drives me
+## Main technologies
 
-I'm especially drawn to backend architecture, platform engineering, security, and the intersection of AI with backend systems. I care about building software that's not just functional but well-crafted — clean code, clear boundaries, and thoughtful abstractions.
+**Backend:** TypeScript, NestJS, Node.js, Python, FastAPI  
+**Frontend:** React, Next.js, Vite, TypeScript  
+**Data:** PostgreSQL, SQLAlchemy, Strapi CMS,   
+**Infrastructure:** AWS, Terraform, Docker, Kubernetes  
+**Security:** OAuth2/OIDC, RBAC
+**Tooling:** pnpm, Nx, CI/CD, GitHub Actions, Ruff, Alembic  
 
-On my GitHub, you'll find backend utilities, infrastructure experiments, service templates, and fullstack prototypes.
+## Current direction (See pinned repositories below)
+
+I’m currently building projects that connect my fullstack background with bioinformatics and life sciences — for example dashboards, QC portals, and data-review tools around sequencing or scientific workflows. See: **BioQC Portal**
+
+I’m also maintaining **Storage Calculator**, a fullstack project focused on clean architecture, practical frontend/backend patterns, and production-oriented development practices.
+
+I care about software that is not only functional, but also easy to understand, test, extend, and maintain.
