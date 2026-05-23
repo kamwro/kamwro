@@ -27,8 +27,10 @@ Recently, I’ve also been expanding into **Python, FastAPI, data-oriented appli
 
 ## Current direction (See pinned repositories below)
 
-I’m currently building projects that connect my fullstack background with bioinformatics and life sciences — for example dashboards, QC portals, and data-review tools around sequencing or scientific workflows. See: **BioQC Portal**
+I’m currently building **BioFlowOps**, a small bioinformatics workflow platform skeleton combining **FastAPI**, **PostgreSQL**, **Nextflow**, **FastQC**, and **MultiQC**. It focuses on tracking sequencing QC workflow metadata and exposing generated report paths while keeping workflow execution separate from the API layer.
 
-I’m also maintaining **Storage Calculator**, a fullstack project focused on clean architecture, practical frontend/backend patterns, and production-oriented development practices.
+This project reflects my current direction: applying my fullstack/backend engineering background to life sciences and bioinformatics-adjacent software.
+
+I’m also building projects such as **BioQC Portal**, focused on dashboards, QC workflows, and scientific data review, and maintaining **Storage Calculator**, a fullstack project focused on clean architecture, frontend/backend patterns, and production-oriented development practices.
 
 I care about software that is not only functional, but also easy to understand, test, extend, and maintain.
