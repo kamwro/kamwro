@@ -1,34 +1,46 @@
 # Hi, I'm Kamil Wróbel 👋
 
-I'm a fullstack developer based in Poland, focused on building reliable, production-grade web platforms across backend, frontend, and cloud infrastructure.
+I'm a full-stack software engineer based in Poland. I build and evolve business applications end to end — from domain modelling, backend APIs, and frontend workflows to system integrations, cloud infrastructure, and delivery automation.
 
-My strongest commercial experience is in the TypeScript ecosystem — especially **NestJS, React, Next.js, Strapi, PostgreSQL, AWS, Docker, and Terraform**. I enjoy working on systems that need clean architecture, clear boundaries, maintainable APIs, secure access control, and smooth developer workflows.
+My strongest commercial experience is in the TypeScript ecosystem, particularly **Node.js, NestJS, React, Next.js, PostgreSQL, and Strapi**. I also work with **Python and FastAPI**, especially for data-oriented and life sciences projects.
 
-Recently, I’ve also been expanding into **Python, FastAPI, data-oriented applications, and life sciences / bioinformatics software**. I’m especially interested in projects that combine fullstack engineering with scientific or domain-heavy data workflows.
+Recent work has included modular commerce platforms, high-volume data synchronisation, external system integrations, observability, and infrastructure automation. I also contribute fixes and specifications to [Open Mercato](https://github.com/open-mercato/open-mercato), an open-source commerce platform.
 
-## What I work on
+## What I focus on
 
-- Designing and building **fullstack applications** from API to UI
-- Creating modular backend services with clean boundaries and readable architecture
-- Building REST and GraphQL APIs for real-world product workflows
-- Working with PostgreSQL, Strapi CMS, and multi-service systems
-- Automating infrastructure with Terraform, Docker, CI/CD, and cloud services
-- Improving developer experience through better tooling, documentation, and project structure
-- Exploring Python/FastAPI and data-focused applications in the life sciences space
+- Designing full-stack applications with clear domain and module boundaries
+- Building maintainable REST and GraphQL APIs
+- Integrating business systems and synchronising data reliably
+- Developing practical React and Next.js user interfaces
+- Improving existing systems through testing, observability, and incremental refactoring
+- Automating infrastructure and delivery workflows
+- Exploring scientific and data-heavy applications with Python and FastAPI
 
-## Main technologies
+## Core technologies
 
-**Backend:** TypeScript, NestJS, Node.js, Python, FastAPI  
-**Frontend:** React, Next.js, Vite, TypeScript  
-**Data:** PostgreSQL, SQLAlchemy, Strapi CMS,   
-**Infrastructure:** AWS, Terraform, Docker, Kubernetes  
-**Security:** OAuth2/OIDC, RBAC
-**Tooling:** pnpm, Nx, CI/CD, GitHub Actions, Ruff, Alembic  
+- **Backend:** TypeScript, Node.js, NestJS, Python, FastAPI
+- **Frontend:** React, Next.js, Vite, TanStack Query
+- **Data:** PostgreSQL, SQLAlchemy, MikroORM, TypeORM, Alembic, Strapi
+- **Infrastructure:** Docker, Kubernetes, Terraform, OpenTofu, AWS, GCP
+- **APIs and security:** REST, GraphQL, OAuth2/OIDC, JWT, RBAC
+- **Quality and delivery:** Jest, Playwright, pytest, Ruff, GitHub Actions, CI/CD
 
-## Current direction (See pinned repositories below)
+## Selected work
 
-I’m currently building **BioFlowOps**, a small bioinformatics workflow platform skeleton combining **FastAPI**, **PostgreSQL**, **Nextflow**, **FastQC**, and **MultiQC**. It focuses on tracking sequencing QC workflow metadata and exposing generated report paths while keeping workflow execution separate from the API layer.
+### [Open Mercato](https://github.com/open-mercato/open-mercato)
 
-I’m also building projects such as **BioQC Portal**, focused on dashboards, QC workflows, and scientific data review, and maintaining **Storage Calculator**, a fullstack project focused on clean architecture, frontend/backend patterns, and production-oriented development practices.
+An open-source, modular commerce platform. I contribute framework fixes and specifications based on real integration and order-management requirements.
 
-I care about software that is not only functional, but also easy to understand, test, extend, and maintain.
+### [Storage Calculator](https://github.com/kamwro/storage-calculator)
+
+A full-stack TypeScript monorepo built with NestJS, Next.js, PostgreSQL, TanStack Query, and Playwright. It demonstrates modular backend design, role-based access control, packing strategies, automated tests, and CI security checks.
+
+### [BioFlowOps](https://github.com/kamwro/bioinformatics-workflow-platform)
+
+A local bioinformatics workflow platform combining a Python CLI, FastAPI, PostgreSQL, Nextflow, FastQC, and MultiQC. It runs an end-to-end quality-control workflow and records its metadata and report artifacts.
+
+### [BioQC Portal](https://github.com/kamwro/bio-qc-portal)
+
+A FastAPI and React application for importing sequencing quality-control data, classifying samples, and reviewing run-level metrics through dashboards and reports.
+
+I care about software that is understandable, testable, observable, and maintainable — especially when it sits at the boundary between several systems or domains.
