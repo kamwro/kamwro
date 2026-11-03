@@ -1,46 +1,23 @@
-# Hi, I'm Kamil Wróbel 👋
+# Hi, I'm Kamil 👋
 
-I'm a full-stack software engineer based in Poland. I build and evolve business applications end to end — from domain modelling, backend APIs, and frontend workflows to system integrations, cloud infrastructure, and delivery automation.
+**Backend-focused Software Developer | TypeScript, Node.js, Python & FastAPI**
 
-My strongest commercial experience is in the TypeScript ecosystem, particularly **Node.js, NestJS, React, Next.js, PostgreSQL, and Strapi**. I also work with **Python and FastAPI**, especially for data-oriented and life sciences projects.
+I'm a software developer with over 2 years of commercial experience building web applications, backend services, and system integrations.
 
-Recent work has included modular commerce platforms, high-volume data synchronisation, external system integrations, observability, and infrastructure automation. I also contribute fixes and specifications to [Open Mercato](https://github.com/open-mercato/open-mercato), an open-source commerce platform.
+My main professional background is in **TypeScript, Node.js, NestJS, React, and PostgreSQL**. I'm also developing my expertise in **Python and FastAPI**, with a growing interest in data engineering and bioinformatics.
 
-## What I focus on
+I enjoy building maintainable software, designing reliable APIs, working with databases, and solving complex technical problems.
 
-- Designing full-stack applications with clear domain and module boundaries
-- Building maintainable REST and GraphQL APIs
-- Integrating business systems and synchronising data reliably
-- Developing practical React and Next.js user interfaces
-- Improving existing systems through testing, observability, and incremental refactoring
-- Automating infrastructure and delivery workflows
-- Exploring scientific and data-heavy applications with Python and FastAPI
+## Featured Projects
 
-## Core technologies
+- **[BioQC Portal](https://github.com/kamwro/bio-qc-portal)** — A sequencing quality-control platform built with Python, FastAPI, React, and PostgreSQL.
+- **[Storage Calculator](https://github.com/kamwro/storage-calculator)** — A full-stack application demonstrating modular NestJS architecture, authorization, packing algorithms, and automated testing.
+- **[BioFlowOps](https://github.com/kamwro/bioinformatics-workflow-platform)** — A bioinformatics workflow platform using Python, Nextflow, FastQC, and MultiQC.
 
-- **Backend:** TypeScript, Node.js, NestJS, Python, FastAPI
-- **Frontend:** React, Next.js, Vite, TanStack Query
-- **Data:** PostgreSQL, SQLAlchemy, MikroORM, TypeORM, Alembic, Strapi
-- **Infrastructure:** Docker, Kubernetes, Terraform, OpenTofu, AWS, GCP
-- **APIs and security:** REST, GraphQL, OAuth2/OIDC, JWT, RBAC
-- **Quality and delivery:** Jest, Playwright, pytest, Ruff, GitHub Actions, CI/CD
+## Currently Focusing On
 
-## Selected work
+- Backend development with Python and TypeScript
+- API design, databases, testing, and software architecture
+- Bioinformatics and scientific software
 
-### [Open Mercato](https://github.com/open-mercato/open-mercato)
-
-An open-source, modular commerce platform. I contribute framework fixes and specifications based on real integration and order-management requirements.
-
-### [Storage Calculator](https://github.com/kamwro/storage-calculator)
-
-A full-stack TypeScript monorepo built with NestJS, Next.js, PostgreSQL, TanStack Query, and Playwright. It demonstrates modular backend design, role-based access control, packing strategies, automated tests, and CI security checks.
-
-### [BioFlowOps](https://github.com/kamwro/bioinformatics-workflow-platform)
-
-A local bioinformatics workflow platform combining a Python CLI, FastAPI, PostgreSQL, Nextflow, FastQC, and MultiQC. It runs an end-to-end quality-control workflow and records its metadata and report artifacts.
-
-### [BioQC Portal](https://github.com/kamwro/bio-qc-portal)
-
-A FastAPI and React application for importing sequencing quality-control data, classifying samples, and reviewing run-level metrics through dashboards and reports.
-
-I care about software that is understandable, testable, observable, and maintainable — especially when it sits at the boundary between several systems or domains.
+**Open to backend and full-stack software engineering opportunities.**
